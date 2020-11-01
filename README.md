@@ -10,6 +10,7 @@ prepare. And then accordingly he can either directly add the prepared meal to hi
 cart or add the missing ingredients to his cart.
 
 PROPOSED SOLUTION:-
+
 Part 1: 
 Define user persona.
 Find similar users based on their historical purchases and personal choices.
