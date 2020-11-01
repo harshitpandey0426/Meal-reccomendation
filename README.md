@@ -51,6 +51,6 @@ order.
 • Suggestion to buy missing ingredients if particular meal is selected by the
 user.
 
-TO run execute the following command
+To run execute the following command
 
 python3 run.py
