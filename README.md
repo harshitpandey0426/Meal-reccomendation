@@ -13,6 +13,7 @@ PROPOSED SOLUTION:-
 
 Part 1: 
 Define user persona.
+
 Find similar users based on their historical purchases and personal choices.
 
 • User-Item collaborative filtering can be used to find similarity between users
@@ -40,10 +41,13 @@ learning and/or associative rule learning models so that similar users will get
 similar recommendations.
 
 Part 3: Meal recommendation
+
 • Using predicted items user most likely to buy next and current cart items,
 recommend most suitable meal using database query using below priority
 order.
+
 • Common items > Current cart items > Predicted items
+
 • Suggestion to buy missing ingredients if particular meal is selected by the
 user.
 
