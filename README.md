@@ -1,5 +1,7 @@
 # Meal-reccomendation
+
 PROBLEM STATEMENT:
+
 Meal Recommender System: Based on historical purchases of a buyer and/or his
 personal information (age, gender, health conditions etc.), define buyer persona.
 When the buyer prepares his current cart, the meal recommendation wizard
@@ -45,4 +47,5 @@ order.
 user.
 
 TO run execute the following command
+
 python3 run.py
