@@ -1,6 +1,6 @@
-# Meal-reccomendation
+# Meal-reccomendation System
 
-PROBLEM STATEMENT:
+## PROBLEM STATEMENT:
 
 Meal Recommender System: Based on historical purchases of a buyer and/or his
 personal information (age, gender, health conditions etc.), define buyer persona.
@@ -9,9 +9,9 @@ could provide him with food choices, i.e. the meal this buyer is most likely to
 prepare. And then accordingly he can either directly add the prepared meal to his
 cart or add the missing ingredients to his cart.
 
-PROPOSED SOLUTION:-
+## PROPOSED SOLUTION:-
 
-Part 1: 
+### Part 1: 
 Define user persona.
 
 Find similar users based on their historical purchases and personal choices.
@@ -28,7 +28,7 @@ define user persona more efficiently.
 • Essential idea behind using user persona is similar users will get similar
 recommendations. For this we will use collaborative filtering.
 
-Part 2: Predict item user most likely to buy next
+### Part 2: Predict item user most likely to buy next
 
 • User-Item matrix as explained above can be used to predict items user most
 likely to buy next using deep learning methods.
@@ -40,7 +40,7 @@ suggestions.
 learning and/or associative rule learning models so that similar users will get
 similar recommendations.
 
-Part 3: Meal recommendation
+### Part 3: Meal recommendation
 
 • Using predicted items user most likely to buy next and current cart items,
 recommend most suitable meal using database query using below priority
@@ -53,4 +53,4 @@ user.
 
 To run execute the following command
 
-python3 run.py
+> python3 run.py
